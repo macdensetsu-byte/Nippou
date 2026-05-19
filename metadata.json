@@ -1,0 +1,6 @@
+{
+  "name": "Daily Report Tracker",
+  "description": "社員の退勤・残業・休日出勤を記録・把握できる日報管理アプリケーションです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
